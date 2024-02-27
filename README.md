@@ -22,8 +22,3 @@ the schedule was authored in Microsoft Project, and the .xslx file is loaded dir
 
 The current time in the schedule is used to show, activate, deactivate tasks, which in turn show, highlight or hide the associated Search Set.
 
-# Live Demo
-
-![Live Demo](images/Screenshot.png)
-
-http://docs.zea.live/4d-schedule-viewer/
