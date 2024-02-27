@@ -1,6 +1,5 @@
 # 4D Schedule Viewer
 
-This demos shows a large complex BIM model comprised of 7 IFC files loaded into the Zea Engine and controlled using a schedule.
 
 ## Loading the BIM data.
 
